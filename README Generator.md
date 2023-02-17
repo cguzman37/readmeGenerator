@@ -1,12 +1,12 @@
 
-# help meeeeeeeee
+# README Generator
 
 
 
 
 ----
 # Contents
-1. [User Story](#user%20story)
+1. [User Story](#user-story)
 2. [Descripton](#description)
 3. [Installation](#installation)
 4. [License](#license)
@@ -16,34 +16,34 @@
 8. [Contact Information](#contact-information)
 
 ## User Story:
-undefined
+AS a developer I want a README Generator to create a professional README for projects.
 
 ## Description:
-rfvwefv
+A quick and easy application to make README  files
 
 
 ## Installation:
-wefv
+N/A
 
 To clone the repo:
-vwbt4bnvfd
+https://github.com/cguzman37/readmeGenerator
 
 ## License:
 MIT
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributions:
-gvfcwdb46u
+N/A
 
 ## Tests:
-jnbvf
+None
 
 ## Authors and Acknowledgments:
-rn
+Myself Cynthia Guzman
 
 ## Contact Information:
-y4rvcfetynbrgf
-rtynjebrgvrth
+GitHub:cguzman37
+Email: cynthia.guzman.37@gmail.com
 
 
 

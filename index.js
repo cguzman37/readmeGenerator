@@ -3,7 +3,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-const generateREADME = ({ title, description, installation, usageInfo, contributions, testingIns, authorAck, userName, userEmail, url, repo, license }) =>
+const generateREADME = ({ title, description, installation, usageinfo, contributions, testingIns, authorAck, userName, userEmail, url, repo, license }) =>
     `
 # ${title}
 
@@ -12,7 +12,7 @@ const generateREADME = ({ title, description, installation, usageInfo, contribut
 
 ----
 # Contents
-1. [User Story](#user%20story)
+1. [User Story](#user-story)
 2. [Descripton](#description)
 3. [Installation](#installation)
 4. [License](#license)
@@ -22,7 +22,7 @@ const generateREADME = ({ title, description, installation, usageInfo, contribut
 8. [Contact Information](#contact-information)
 
 ## User Story:
-${usageInfo}
+${usageinfo}
 
 ## Description:
 ${description}
@@ -48,8 +48,8 @@ ${testingIns}
 ${authorAck}
 
 ## Contact Information:
-${userName}
-${userEmail}
+GitHub:${userName}
+Email: ${userEmail}
 
 
 
